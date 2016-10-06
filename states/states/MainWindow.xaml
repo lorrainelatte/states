@@ -1,0 +1,15 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Enter a Value:" Height="30" HorizontalAlignment="Left" Margin="14,13,0,0" Name="Label1" VerticalAlignment="Top" Width="102" />
+        <TextBox Height="31" Margin="122,12,180,0" Name="txtInput" VerticalAlignment="Top" />
+        <TextBox Height="212" HorizontalAlignment="Left" Margin="122,54,0,0" Name="txtOutput" VerticalAlignment="Top" Width="369" />
+        <Button Content="Add" Height="30" HorizontalAlignment="Left" Margin="77,273,0,0" Name="btnAdd" VerticalAlignment="Top" Width="78" />
+        <Button Content="Clear" Height="30" HorizontalAlignment="Left" Margin="413,273,0,0" Name="btnClear" VerticalAlignment="Top" Width="78" />
+        <Button Content="Remove" Height="30" HorizontalAlignment="Left" Margin="329,273,0,0" Name="btnRemove" VerticalAlignment="Top" Width="78" />
+        <Button Content="Get" Height="30" HorizontalAlignment="Left" Margin="245,273,0,0" Name="btnGet" VerticalAlignment="Top" Width="78" />
+        <Button Content="Show" Height="30" HorizontalAlignment="Right" Margin="0,273,264,0" Name="btnShow" VerticalAlignment="Top" Width="78" />
+    </Grid>
+</Window>

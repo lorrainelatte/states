@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\bin\Debug\states.exe
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\bin\Debug\states.pdb
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\bin\Debug\states.xml
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\MainWindow.baml
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\Application.g.vb
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\states_MarkupCompile.cache
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\states.g.resources
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\WpfApplication1.Resources.resources
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\states.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\states.exe
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\states.xml
+C:\Users\Student\Documents\LATI_LORAINNE\states\states\obj\x86\Debug\states.pdb
